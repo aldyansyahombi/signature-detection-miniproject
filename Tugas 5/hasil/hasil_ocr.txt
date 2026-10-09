@@ -1,0 +1,118 @@
+======================================================================
+HASIL OCR NOMOR IJAZAH
+======================================================================
+
+GROUND TRUTH:
+Nomor ijazah: 571012022000056
+
+----------------------------------------------------------------------
+CITRA 01
+----------------------------------------------------------------------
+File : 01_HighQuality_Enhanced (1).jpg
+
+Ground Truth  : Nomor ijazah: 571012022000056
+Original      : . Nomor yazah: 57 _
+Mean Filter   : | Nomor yazah: 571
+Median Filter : | Nomor yazah: 571] oe
+Gaussian      : Nomor tjazah: 571 oe
+Sharpening    : a ee ne
+
+----------------------------------------------------------------------
+CITRA 02
+----------------------------------------------------------------------
+File : 02_LowContrast (1).jpg
+
+Ground Truth  : Nomor ijazah: 571012022000056
+Original      : . Nomor yazah: 571012022000056
+Mean Filter   : Nomor yyazah: 571012022000056
+Median Filter : Nomor yazah: 571012022000056
+Gaussian      : | Nomor yazah: 571012022000056
+Sharpening    : : Nomor yazah: 571012022000056
+
+----------------------------------------------------------------------
+CITRA 03
+----------------------------------------------------------------------
+File : 03_Blurred (1).jpg
+
+Ground Truth  : Nomor ijazah: 571012022000056
+Original      : Nomor ijazah: 571 — : -
+Mean Filter   : Nomor a ; 2 —
+Median Filter : Nomor ijazah: 571 ed . .
+Gaussian      : Tidak terbaca
+Sharpening    : Nomor jazah: 571 —
+
+----------------------------------------------------------------------
+CITRA 04
+----------------------------------------------------------------------
+File : 04_HighNoise (1).jpg
+
+Ground Truth  : Nomor ijazah: 571012022000056
+Original      : - Nomor yazah: 571012022000056
+Mean Filter   : Nomor yazah: 571012022000056
+Median Filter : Nomor yazah: 571012022000056
+Gaussian      : e Nomor tjazah: 571012022000056
+Sharpening    : Tidak terbaca
+
+----------------------------------------------------------------------
+CITRA 05
+----------------------------------------------------------------------
+File : 05_LowResolution_Upsampled (1).jpg
+
+Ground Truth  : Nomor ijazah: 571012022000056
+Original      : Nomor iazah: 571012022000056
+Mean Filter   : Nomor yazah: 571012022000056
+Median Filter : Nomor yazah: 571012022000056
+Gaussian      : Nomor ijazah: 571012022000056
+Sharpening    : Nomor yazah: 571012022000056
+
+----------------------------------------------------------------------
+CITRA 06
+----------------------------------------------------------------------
+File : 06_Faded_Underexposed (1).jpg
+
+Ground Truth  : Nomor ijazah: 571012022000056
+Original      : | Nomor yazah: 571012022000056
+Mean Filter   : Nomor yazah: 571012022000056
+Median Filter : Nomor yazah: 571012022000056
+Gaussian      : Nomor yazah: 571012022000056
+Sharpening    : Nomor yazah: 571012022000056 |
+
+----------------------------------------------------------------------
+CITRA 07
+----------------------------------------------------------------------
+File : 07_ColorShift_WarmTint (1).jpg
+
+Ground Truth  : Nomor ijazah: 571012022000056
+Original      : : Nomor yazah: 571012022000056
+Mean Filter   : Nomor tjazah: 571012022000056
+Median Filter : Nomor yazah: 571012022000056
+Gaussian      : | Nomor yazah: 571012022000056
+Sharpening    : Nomor ijazah: 571012022000056 |
+
+----------------------------------------------------------------------
+CITRA 08
+----------------------------------------------------------------------
+File : 08_JPEGCompression_Artifacts (1).jpg
+
+Ground Truth  : Nomor ijazah: 571012022000056
+Original      : Nomor yazah: 571012022000056
+Mean Filter   : Nomor yazah: 571012022000056
+Median Filter : Nomor yazah: 571012022000056
+Gaussian      : | Nomor yazah: 571012022000056
+Sharpening    : : Nomor yazah: 571012022000056
+
+----------------------------------------------------------------------
+CITRA 09
+----------------------------------------------------------------------
+File : 09_CombinedDegradation (1).jpg
+
+Ground Truth  : Nomor ijazah: 571012022000056
+Original      : Nomor yazah: 571012022000056
+Mean Filter   : Nomor yazah: 571012022000056
+Median Filter : Nomor yazah: 571012022000056
+Gaussian      : Nomor yazah: 571012022000056
+Sharpening    : Nomor yazah: 571012022000056
+
+======================================================================
+OCR SELESAI
+======================================================================
