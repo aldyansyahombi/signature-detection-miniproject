@@ -1,0 +1,155 @@
+[
+  {
+    "idx": 1,
+    "file": "01_HighQuality_Enhanced.jpg",
+    "mean": 237.76,
+    "std": 39.32,
+    "min": 0,
+    "max": 255,
+    "pct_dark": 2.07,
+    "pct_bright": 94.17,
+    "range_used": [
+      0,
+      255
+    ],
+    "lap_var": 1115.96,
+    "illum_std": 10.34,
+    "illum_range": 41.05
+  },
+  {
+    "idx": 2,
+    "file": "02_LowContrast.jpg",
+    "mean": 239.55,
+    "std": 20.79,
+    "min": 91,
+    "max": 255,
+    "pct_dark": 0.0,
+    "pct_bright": 94.96,
+    "range_used": [
+      91,
+      255
+    ],
+    "lap_var": 284.59,
+    "illum_std": 5.5,
+    "illum_range": 21.74
+  },
+  {
+    "idx": 3,
+    "file": "03_Blurred.jpg",
+    "mean": 239.69,
+    "std": 28.3,
+    "min": 0,
+    "max": 255,
+    "pct_dark": 0.2,
+    "pct_bright": 92.89,
+    "range_used": [
+      0,
+      255
+    ],
+    "lap_var": 5.22,
+    "illum_std": 9.15,
+    "illum_range": 36.16
+  },
+  {
+    "idx": 4,
+    "file": "04_HighNoise.jpg",
+    "mean": 231.43,
+    "std": 34.25,
+    "min": 0,
+    "max": 255,
+    "pct_dark": 1.11,
+    "pct_bright": 93.86,
+    "range_used": [
+      0,
+      255
+    ],
+    "lap_var": 3060.45,
+    "illum_std": 8.5,
+    "illum_range": 33.42
+  },
+  {
+    "idx": 5,
+    "file": "05_LowResolution_Upsampled.jpg",
+    "mean": 239.52,
+    "std": 32.1,
+    "min": 0,
+    "max": 255,
+    "pct_dark": 0.49,
+    "pct_bright": 93.56,
+    "range_used": [
+      0,
+      255
+    ],
+    "lap_var": 50.29,
+    "illum_std": 9.21,
+    "illum_range": 36.31
+  },
+  {
+    "idx": 6,
+    "file": "06_Faded_Underexposed.jpg",
+    "mean": 154.9,
+    "std": 15.75,
+    "min": 41,
+    "max": 168,
+    "pct_dark": 0.24,
+    "pct_bright": 0.0,
+    "range_used": [
+      41,
+      168
+    ],
+    "lap_var": 136.58,
+    "illum_std": 4.17,
+    "illum_range": 16.53
+  },
+  {
+    "idx": 7,
+    "file": "07_ColorShift_WarmTint.jpg",
+    "mean": 231.33,
+    "std": 33.31,
+    "min": 0,
+    "max": 250,
+    "pct_dark": 1.13,
+    "pct_bright": 94.1,
+    "range_used": [
+      0,
+      250
+    ],
+    "lap_var": 683.32,
+    "illum_std": 8.81,
+    "illum_range": 34.56
+  },
+  {
+    "idx": 8,
+    "file": "08_JPEGCompression_Artifacts.jpg",
+    "mean": 239.2,
+    "std": 34.18,
+    "min": 0,
+    "max": 255,
+    "pct_dark": 0.95,
+    "pct_bright": 94.14,
+    "range_used": [
+      0,
+      255
+    ],
+    "lap_var": 410.16,
+    "illum_std": 9.15,
+    "illum_range": 35.93
+  },
+  {
+    "idx": 9,
+    "file": "09_CombinedDegradation.jpg",
+    "mean": 184.62,
+    "std": 21.83,
+    "min": 21,
+    "max": 198,
+    "pct_dark": 0.39,
+    "pct_bright": 0.0,
+    "range_used": [
+      21,
+      198
+    ],
+    "lap_var": 24.0,
+    "illum_std": 6.16,
+    "illum_range": 24.18
+  }
+]

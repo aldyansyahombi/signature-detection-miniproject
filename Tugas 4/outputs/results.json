@@ -1,0 +1,245 @@
+[
+  {
+    "file": "01_HighQuality_Enhanced.jpg",
+    "Original": {
+      "ocr": ": Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 26.9645180101062,
+      "michelson": 0.05903243480940402
+    },
+    "Brightness": {
+      "ocr": ". Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 25.05846545108255,
+      "michelson": 0.08173155067318558
+    },
+    "Contrast Stretch": {
+      "ocr": "3 Nomor tjazah: 571012022000056",
+      "sim": 0.9180327868852459,
+      "std": 38.64254209133526,
+      "michelson": 0.10037612127609101
+    },
+    "Hist. Equalization": {
+      "ocr": "",
+      "sim": 0.0,
+      "std": 75.6975769821239,
+      "michelson": 0.7327441700693137
+    }
+  },
+  {
+    "file": "02_LowContrast.jpg",
+    "Original": {
+      "ocr": ": Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 14.852327554131229,
+      "michelson": 0.03969889172395681
+    },
+    "Brightness": {
+      "ocr": ": Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 14.852327554131229,
+      "michelson": 0.05721836639410888
+    },
+    "Contrast Stretch": {
+      "ocr": ". Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 40.21607889674664,
+      "michelson": 0.12627984170079434
+    },
+    "Hist. Equalization": {
+      "ocr": ": \u2014",
+      "sim": 0.12121212121212122,
+      "std": 75.36914528306768,
+      "michelson": 0.7573263739259513
+    }
+  },
+  {
+    "file": "03_Blurred.jpg",
+    "Original": {
+      "ocr": "Nomor ijazah: 571012022000056",
+      "sim": 0.9830508474576272,
+      "std": 17.10957421792458,
+      "michelson": 0.05144866908775102
+    },
+    "Brightness": {
+      "ocr": "Nomor ijazah: 571012022000056",
+      "sim": 0.9830508474576272,
+      "std": 17.10957421792458,
+      "michelson": 0.07494493201977852
+    },
+    "Contrast Stretch": {
+      "ocr": "Nomor ijazah: 571012022000056",
+      "sim": 0.9830508474576272,
+      "std": 44.78898793044584,
+      "michelson": 0.16428962577631698
+    },
+    "Hist. Equalization": {
+      "ocr": "",
+      "sim": 0.0,
+      "std": 77.09725509500625,
+      "michelson": 0.7682897816261938
+    }
+  },
+  {
+    "file": "04_HighNoise.jpg",
+    "Original": {
+      "ocr": ". Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 26.39695238281598,
+      "michelson": 0.08506339447048064
+    },
+    "Brightness": {
+      "ocr": ". Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 25.949597849843535,
+      "michelson": 0.1177960873816513
+    },
+    "Contrast Stretch": {
+      "ocr": ". Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 43.46233007751812,
+      "michelson": 0.16850523178350907
+    },
+    "Hist. Equalization": {
+      "ocr": "",
+      "sim": 0.0,
+      "std": 75.07354025371454,
+      "michelson": 0.7020949321583919
+    }
+  },
+  {
+    "file": "05_LowResolution_Upsampled.jpg",
+    "Original": {
+      "ocr": "| Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 22.466503038825923,
+      "michelson": 0.059355977560638026
+    },
+    "Brightness": {
+      "ocr": "| Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 22.436102919341593,
+      "michelson": 0.08620497263048124
+    },
+    "Contrast Stretch": {
+      "ocr": ": Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 42.59082420312304,
+      "michelson": 0.1330936526150154
+    },
+    "Hist. Equalization": {
+      "ocr": "",
+      "sim": 0.0,
+      "std": 75.84501509796102,
+      "michelson": 0.7532280864834948
+    }
+  },
+  {
+    "file": "06_Faded_Underexposed.jpg",
+    "Original": {
+      "ocr": ": Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 10.959432804263376,
+      "michelson": 0.03962116728754375
+    },
+    "Brightness": {
+      "ocr": ": Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 10.959432804263376,
+      "michelson": 0.036562192246196175
+    },
+    "Contrast Stretch": {
+      "ocr": "| Nomor tjazah: 571012022000056",
+      "sim": 0.9180327868852459,
+      "std": 39.77246226215483,
+      "michelson": 0.10996779958949757
+    },
+    "Hist. Equalization": {
+      "ocr": ". -",
+      "sim": 0.06060606060606061,
+      "std": 75.44180533733235,
+      "michelson": 0.6974711393440866
+    }
+  },
+  {
+    "file": "07_ColorShift_WarmTint.jpg",
+    "Original": {
+      "ocr": "; Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 22.29248461553403,
+      "michelson": 0.046674335239281675
+    },
+    "Brightness": {
+      "ocr": "; Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 21.967051589828092,
+      "michelson": 0.06473101553466076
+    },
+    "Contrast Stretch": {
+      "ocr": "/ Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 39.22040805912728,
+      "michelson": 0.09404430158189417
+    },
+    "Hist. Equalization": {
+      "ocr": "",
+      "sim": 0.0,
+      "std": 78.22992906380543,
+      "michelson": 0.7228700184166508
+    }
+  },
+  {
+    "file": "08_JPEGCompression_Artifacts.jpg",
+    "Original": {
+      "ocr": ": Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 22.701512037761443,
+      "michelson": 0.05128506858892578
+    },
+    "Brightness": {
+      "ocr": ": Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 22.283783763892753,
+      "michelson": 0.07355361806857827
+    },
+    "Contrast Stretch": {
+      "ocr": ": Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 38.536443766635514,
+      "michelson": 0.10626493868940111
+    },
+    "Hist. Equalization": {
+      "ocr": "",
+      "sim": 0.0,
+      "std": 75.62399374951697,
+      "michelson": 0.7413786869078928
+    }
+  },
+  {
+    "file": "09_CombinedDegradation.jpg",
+    "Original": {
+      "ocr": "| Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 14.379609241206682,
+      "michelson": 0.04585946553964081
+    },
+    "Brightness": {
+      "ocr": "| Nomor ijazah: 571012022000056",
+      "sim": 0.9508196721311475,
+      "std": 14.379609241206682,
+      "michelson": 0.05081987810251986
+    },
+    "Contrast Stretch": {
+      "ocr": "Nomor ijazah: 571012022000056",
+      "sim": 0.9830508474576272,
+      "std": 40.726695509686905,
+      "michelson": 0.12160006492152943
+    },
+    "Hist. Equalization": {
+      "ocr": "",
+      "sim": 0.0,
+      "std": 75.27970004640267,
+      "michelson": 0.7255188113154492
+    }
+  }
+]
